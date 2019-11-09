@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Service
 ServiceTypes=KonqPopupMenu/Plugin
-MimeType=all/all;
+MimeType=text/*;inode/*;
 Actions=meldCompareEachOther;meldSaveForCompare;meldCompareTo;
 X-KDE-Priority=TopLevel
 X-KDE-StartupNotify=false
